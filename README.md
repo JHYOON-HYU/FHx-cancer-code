@@ -8,10 +8,10 @@ a nationwide cohort study of Korean women**
 ## Contents
 
 ### SAS
-- `01_variable_construction.sas`: Construction of study variables
-- `02_cox_models.sas`: Cox proportional hazards regression models
-- `03_concordant_discordant_models.sas`: Concordant and discordant cancer analyses
-- `04_incidence_rates.sas`: Incidence rates and incidence rate differences
+- Construction of study variables
+- Cox proportional hazards regression models
+- Concordant and discordant cancer analyses
+- Incidence rates and incidence rate differences
 
 ### R
 - `Figure1.R`: Generation of Figure 1
